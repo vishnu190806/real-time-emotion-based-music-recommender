@@ -159,3 +159,5 @@ The backend exposes a fully asynchronous REST API:
 
 ## 📝 License
 MIT License. Created for the Real-Time Emotion-Based Music Recommender project.
+
+Project maintained by Vishnu.
