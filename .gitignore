@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual environments
+venv/
+venv_gpu/
+win_env/
+.env/
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Large Models
+# You might want to keep the models folder structure, but not the huge files:
+models/*.h5
+models/emotion_saved_model/variables/
