@@ -14,13 +14,12 @@ Your vibe. Your soundtrack. Powered by real-time emotion detection and AI-driven
 
 Emotion Music AI strictly performs real-time emotion detection using your webcam, and automatically curates a Spotify playlist that perfectly aligns with your detected mood.
 
+### Emotion Detection and Lanuage Selection
 <img width="2559" height="1462" alt="image" src="https://github.com/user-attachments/assets/a9d86da4-757b-414b-bbc4-142632e23f41" />
 
-Emotion Detection and Lanuage Selection
-
+### Music Recommeneded
 <img width="2535" height="1462" alt="image" src="https://github.com/user-attachments/assets/23761e5f-31c9-4524-ab28-2a6f9d6f7f54" />
 
-Music Recommeneded
 
 ---
 
