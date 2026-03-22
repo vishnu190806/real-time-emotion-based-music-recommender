@@ -67,7 +67,7 @@ emotion-music-ai/
 3. **Smoothing**: The `EmotionSmoother` evaluates the prediction. If confidence >= 0.70, it updates immediately. Otherwise, it contributes to a 15-frame rolling average.
 4. **Music Engine**: When you click "Discover Music," the `spotify_helper` constructs a targeted search query based on emotion and language, grabbing 8 unique tracks from the Spotify catalog.
 
-### Architecture Diagram
+### 🖥️ Architecture Diagram
 <img width="5197" height="5621" alt="image" src="https://github.com/user-attachments/assets/535521db-c474-423c-96db-c8e546aa30ab" />
 
 
